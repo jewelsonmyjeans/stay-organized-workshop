@@ -1,0 +1,21 @@
+body {
+    background-color: #F4FAFF;
+}
+
+.btn-primary {
+    background-color: #B7ADCF;
+    border-color: #B7ADCF;
+}
+
+.btn-primary:hover {
+    background-color: #ae99e0;
+    border-color: #B7ADCF;
+}
+
+li:hover {
+    background-color: #DEE7E7;
+}
+
+select {
+    margin-right: .1em;
+}
