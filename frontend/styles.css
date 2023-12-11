@@ -16,6 +16,15 @@ li:hover {
     background-color: #DEE7E7;
 }
 
-select {
-    margin-right: .1em;
+
+img {
+    width: 45%;
+}
+
+.nav-underline > .active{
+    border-color: #ae99e0 !important;
+}
+
+.nav-underline > *:hover {
+    border-color: #ae99e0 !important;
 }
