@@ -7,9 +7,9 @@ body {
     border-color: #B7ADCF;
 }
 
-.btn-primary:hover {
-    background-color: #ae99e0;
-    border-color: #B7ADCF;
+.btn-primary:focus:active, .btn-primary:hover {
+    background-color: #ae99e0 !important; 
+    border-color: #B7ADCF !important;
 }
 
 li:hover {
