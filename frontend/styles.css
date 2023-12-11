@@ -23,8 +23,9 @@ img {
 
 .nav-underline > .active{
     border-color: #ae99e0 !important;
+    color:#3d3253 !important;
 }
 
-.nav-underline > *:hover {
+.nav-underline > *:hover{
     border-color: #ae99e0 !important;
 }
